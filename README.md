@@ -5,7 +5,7 @@
 - 👀 I’m interested in **learning new tecnologies**
 related to Python and Artificial Intelligence.
 - 🌱 I’m currently learning **Advanced Python & AI projects**
-- 
+  
 - **SKILLS**
 - **Programming Languages**: Python, SQL, C++
 - **AI/ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
@@ -14,12 +14,12 @@ related to Python and Artificial Intelligence.
   - **Computer Vision:** OpenCV, Dlib
   - **Natural Language Processing (NLP):** NLTK, SpaCy
   - **Web Development:** Django,HTML,CSS,JS 
-  - **Others:** Jupyter, Anaconda, Data Preprocessing, Model Deployment
+  - *Others:* Jupyter, Anaconda, Data Preprocessing, Model Deployment
 
 - **Databases:** MySQL,
 - **other skills:** DATA STRUCTURES, SDLC, DEBUGGING
--  
-- ** Additional Information**
+   
+- **Additional Information**
 - Languages: English (Fluent), Tamil (Fluent)
 - Interests: AI research, Open-source contribution, Competitive programming
 - Volunteer Work: NSS
