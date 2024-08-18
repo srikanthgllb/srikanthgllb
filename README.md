@@ -5,12 +5,14 @@
 - 👀 I’m interested in **learning new tecnologies**
 related to Python and Artificial Intelligence.
 - 🌱 I’m currently learning **Advanced Python & AI projects**
--**SKILLS**
-Programming Languages: Python, SQL, C++
-AI/ML Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn
-Tools and Technologies: OpenCV, Pandas, NumPy, Matplotlib, Git, Jupyter
-Web Development:  Django,HTML,CSS,JS 
-Databases: MySQL, SQLite
+- **SKILLS**
+- **Programming Languages**: Python, SQL, C++
+- **AI/ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
+- **Tools and Technologies**: OpenCV, Pandas, NumPy, Matplotlib, Git, Jupyter
+- **Web Development:**  Django,HTML,CSS,JS 
+- **Databases:** MySQL, SQLite
+- **other skills:** DATA STRUCTURES, SDLC, DEBUGGING
+-  
 - I’m looking for job to begin my career as a fresher in Software Development as a role of
 - **Python Developer**
 - **AI Developer**
@@ -18,7 +20,7 @@ Databases: MySQL, SQLite
 - **Front-end Developer**
 
 - 💬 also know web technologies like HTML,CSS,JS,DJANGO
-- **other skills:** SQL,DATA STRUCTURES, SDLC, DEBUGGING 
+
 
 - 📫 How to reach me **srikanthgllb@gmail.com**
 
