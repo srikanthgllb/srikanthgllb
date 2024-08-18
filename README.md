@@ -5,7 +5,12 @@
 - 👀 I’m interested in **learning new tecnologies**
 related to Python and Artificial Intelligence.
 - 🌱 I’m currently learning **Advanced Python & AI projects**
-
+-**SKILLS**
+Programming Languages: Python, SQL, C++
+AI/ML Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn
+Tools and Technologies: OpenCV, Pandas, NumPy, Matplotlib, Git, Jupyter
+Web Development:  Django,HTML,CSS,JS 
+Databases: MySQL, SQLite
 - I’m looking for job to begin my career as a fresher in Software Development as a role of
 - **Python Developer**
 - **AI Developer**
