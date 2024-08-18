@@ -6,7 +6,7 @@
 related to Python and Artificial Intelligence.
 - 🌱 I’m currently learning **Advanced Python & AI projects**
   
-- **SKILLS**
+ **SKILLS**
 - **Programming Languages**: Python, SQL, C++
 - **AI/ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
 - **Tools and Technologies:**
@@ -19,7 +19,7 @@ related to Python and Artificial Intelligence.
 - **Databases:** MySQL,
 - **other skills:** DATA STRUCTURES, SDLC, DEBUGGING
    
-- **Additional Information**
+ **Additional Information**
 - Languages: English (Fluent), Tamil (Fluent)
 - Interests: AI research, Open-source contribution, Competitive programming
 - Volunteer Work: NSS
