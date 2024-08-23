@@ -12,7 +12,6 @@ related to Python and Artificial Intelligence.
 - **Tools and Technologies:**
   - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
   - **Computer Vision:** OpenCV, Dlib
-  - **Natural Language Processing (NLP):** NLTK, SpaCy
   - **Web Development:** Django,HTML,CSS,JS 
   - *Others:* Jupyter, Anaconda, Data Preprocessing, Model Deployment
 
